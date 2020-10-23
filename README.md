@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/carvalhopablo/laravel_app# laravel
+https://hub.docker.com/r/carvalhopablo/laravel_app
